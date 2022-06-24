@@ -1,11 +1,11 @@
-import LogoImage from '../../assets/logo.svg.png';
+import LogoImage from '../../assets/Pablinho-lista.svg';
 import './header.styles.css'
 
 const Header = () =>{
     return(
         <header className='header'>
         <div>
-            <img scr={LogoImage} alt='logo minha lista'/>
+            <img src={LogoImage} alt='logo minha lista' className='logo'/>
         </div>
         </header>
 

@@ -4,8 +4,12 @@
 }
 
 .header div{
-    max-width: 1120px;
+    max-width: 1020px;
     margin: 0 auto;
 
-    padding: 2rem 1rem 12rem;
+    ;
+}
+
+.logo{
+    width: 40%;
 }
